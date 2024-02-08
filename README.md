@@ -1,4 +1,4 @@
-                                                                                        Text Encryption and Decryption with Tkinter
+                                              Text Encryption and Decryption with Tkinter
 This Python script utilizes the Tkinter library to create a graphical user interface (GUI) for text encryption and decryption. The user can input a text message and a numerical key, and the script will perform either encryption or decryption based on the chosen operation.
 
 Features
